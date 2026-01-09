@@ -281,3 +281,85 @@
 }
 /*Content section ends*/
 
+
+/* FOOTER */
+.footer {
+  width: 100%;
+  background-color: #0f172a;
+  color: #ffffff;
+  padding: 50px 0 30px;
+  font-family: 'Inter', sans-serif;
+}
+
+.footer-container {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.footer-logo img {
+  width: 32px;
+}
+
+.footer-logo span {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.footer-social p{
+    font-size: 13px;
+}
+
+
+.footer-social a {
+ 
+  width: 30px;
+  height: 30px;
+  background-color: #ffffff;   /* or any color you want */
+  border-radius: 50%;          /* THIS makes it a circle */
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+
+.footer-social img {
+  width: 22px;
+  
+  
+}
+
+
+.footer-divider {
+  margin: 30px 0 20px;
+  border: none;
+  height: 1px;
+  background-color: #334155;
+}
+
+
+.footer-text {
+  text-align: center;
+  font-size: 14px;
+  color: #cbd5f5;
+}
+
+
+/*FOOTER End*/
+
+
