@@ -70,13 +70,14 @@
 /*Hero section Start*/
 .hero {
   width: 100%;
-  min-height: 60vh;   /* hero height only */
+    /* hero height only */
   
   background-image: url("images/hero-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-    border: 2px solid red;
+  border-radius: 10px;
+    
 }
 /* Dark overlay */
 .hero-overlay {
