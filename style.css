@@ -153,3 +153,23 @@
 }
 
 /*Hero section End*/
+
+
+/*Note Section start*/
+.note-section {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  background: #ffffff;
+}
+
+
+.note-section h2 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+.note-section p {
+  color: #627382;
+}
+/*Note Section end*/
